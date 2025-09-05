@@ -1,3 +1,3 @@
-from .complete_numbers import Ctn
+from .ctn import Ctn
 
 __all__ = ['Ctn']

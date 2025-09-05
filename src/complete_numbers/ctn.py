@@ -9,9 +9,9 @@ class Ctn:
 
     def __str__(self):
         selfstring = str(self.a)
-        if self.b > 0: selfstring += ' + ' + self.b +'i'
-        if self.c > 0: selfstring += ' + ' + self.c + 'phi'
-        if self.d > 0: selfstring += ' + ' + self.d + 'psi'
+        if self.b > 0: selfstring += ' + ' + str(self.b) +'i'
+        if self.c > 0: selfstring += ' + ' + str(self.c) + 'phi'
+        if self.d > 0: selfstring += ' + ' + (self.d) + 'psi'
         return selfstring
 
     

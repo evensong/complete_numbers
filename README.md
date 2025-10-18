@@ -1,3 +1,5 @@
+# NOTE: Project defunct. Following proof that zero's properties as annihilator are directly tied to its properties as additive identity, this method has been determined to be implausible.
+
 # complete_numbers
 Simple library to test the arithmetical properties of a number system allowing for zero division
 
